@@ -1,0 +1,2 @@
+# gittest
+изучаем git
