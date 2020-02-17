@@ -26,6 +26,9 @@
 	<div class="container-search">
 		<div class="search">
 			<form>
+
+				<div>Новый див</div>
+
 				<div class="input-group">
 					<select class="border-none" name="category_id">
 						<option>All Categories</option>
